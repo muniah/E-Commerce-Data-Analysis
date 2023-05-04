@@ -1,2 +1,2 @@
-# E-Commerce-Data-Analysis
-Use MySQL to extract and analyze website traffic and performance data from the Maven Fuzzy Factory database to quantify the company’s growth.
+# SQL Assignments 
+A repository for the assignments done for 'Master SQL for Data Science' course in Udemy. 
